@@ -1,0 +1,4 @@
+#Fri May 24 23:51:27 ICT 2019
+base.0=C\:\\Users\\Nonny\\Desktop\\Code\\MobileApp\\prepare_exam-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
